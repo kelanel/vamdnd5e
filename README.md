@@ -1,7 +1,3 @@
-# vamdnd5e
-A sample of our animated tokens for foundry users to enjoy and terrorize with!
-
-
 Greetings, Stranger!
 --------------------
 
