@@ -37,12 +37,9 @@ Team Vivid
 
 #### Our Links:
 
-[Patreon](https://www.patreon.com/vividadventuremaps)  
+[Patreon - go here to subscribe!](https://www.patreon.com/vividadventuremaps)  
 [Discord](https://discord.gg/rD9AWVXkMc)  
 [Youtube](https://www.youtube.com/channel/UCHMgBtzK9rV0HlkW_P0MCYg)  
 [Twitter](https://twitter.com/VividAdvMaps)  
 [Instagram](https://www.instagram.com/vividadventuremaps/)
 
-* * *
-
-This intro can always be activated in the settings of our menu if you disable it.
